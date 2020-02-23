@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tabFormation">
+        <item>Réseaux Télécom</item>
+        <item>Génie Civil</item>
+        <item>Transit</item>
+        <item>Informatique</item>
+        <item>Management</item>
+        <item>Communication</item>
+        <item>Gestion</item>
+    </string-array>
+    <string-array name="tabDetail">
+        <item>Administration réseaux, Linux, Système d\'exploitation, Admin SYS, Admin RX, Admin Linux</item>
+        <item>Batiment, Architecture</item>
+        <item>Déclaration Douane, Exportation, Importation Portuaire, Aeroportuaire</item>
+        <item>PHP, Java, Windev, Développeur, Web Designer, Software engeneer</item>
+        <item>Management de Projets, Suivi et évaluation, Management informatisé des organisations</item>
+        <item>Art Oratoire, Bases de la communication</item>
+        <item>Gestion Comptable, Gestion informatisée des stocks, approvisionnements, Saisie de caisse, Paie, Etats financiers</item>
+    </string-array>
+
+    <string-array name="tabClasse">
+        <item>Licence 1</item>
+        <item>Licence 2</item>
+        <item>Licence 3</item>
+        <item>Master 1</item>
+        <item>Master 2</item>
+    </string-array>
+</resources>
